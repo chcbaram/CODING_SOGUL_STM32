@@ -1,0 +1,4 @@
+commit 36254e2f4b74dda1e5568bd08d8684b8382f057a
+Author: Frederic Pillon <frederic.pillon@st.com>
+
+    chore: bump release version to 2.6.0
